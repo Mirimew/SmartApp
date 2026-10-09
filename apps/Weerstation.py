@@ -15,6 +15,12 @@ openmeteo = openmeteo_requests.Client() # Voor OpenMeteo heb ik wel AI gebruikt,
 steden = { # Ik ben van plan om nog meer steden toe te voegen.
     "utrecht": (52.09, 5.12),
     "eindhoven": (51.44, 5.47),
+    "enschede": (52.21, 6.89),
+    "amsterdam": (52.37, 4.89),
+    "rotterdam": (51.92, 4.47),
+    "emmen": (52.79, 6.89),
+    "zwolle": (52.51, 6.08),
+    "hogeschool utrecht": (52.08, 5.18)
 }
 
 # ───────────── Functies ───────────── #
