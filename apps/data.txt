@@ -1,0 +1,4 @@
+date numPeople tempSetpoint tempOutside precip
+05-10-2024 2 19 8 7
+06-10-2024 2 19 8 7
+07-10-2024 1 19 9 3
